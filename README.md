@@ -1,4 +1,4 @@
-# Jisti Grid #
+# Jitsi Grid #
 Arrange your video windows to fill as much browser space as possible.
 
 ## Setup ##
