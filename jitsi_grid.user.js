@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Jitsi Video Grid
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Arrange video windows to take up as much space as possible
 // @author       Michael Schroder
 // @include      https://meet.*.space/*
